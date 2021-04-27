@@ -1,7 +1,5 @@
 <?php
 
-// Code by Nxstro Stress
-
 $nombre1 = (float)readline('[+] Entrez votre premier nombre : '); // vraiable rentrer par l'utilisateur qui sera un float pour gérer les nombre à virgule.
 $choix = readline('[+] Entrez votre opérateur (+, -, *, /): '); // vraiable rentrer par l'utilisateur qui sera un str pour définir le calcul qui souhaite éxécuter.
 $nombre2 = (float)readline('[+] Entrez votre deuxieme nombre : '); // vraiable rentrer par l'utilisateur qui sera un float pour gérer les nombre à virgule.
